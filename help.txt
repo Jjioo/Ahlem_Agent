@@ -1,0 +1,18 @@
+d:
+cd D:\Ahlem\jade\examples\test1\
+javac -cp D:\Ahlem\jade\lib\jade.jar D:\Ahlem\jade\examples\test1\Client.java
+
+d:
+cd D:\Ahlem\jade\examples 
+java -cp D:\Ahlem\jade\lib\jade.jar;. jade.Boot -gui
+
+
+
+
+
+
+
+
+
+control:
+javac -cp D:\Ahlem\jade\lib\jade.jar D:\Ahlem\jade\examples\test1\Control\AdditionServer.java

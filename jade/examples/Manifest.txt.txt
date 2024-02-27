@@ -1,0 +1,2 @@
+Main-Class: test1.Main
+Class-Path: lib/jade.jar 
